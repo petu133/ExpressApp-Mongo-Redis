@@ -1,0 +1,7 @@
+node_modules
+.env
+.vscode
+
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb
